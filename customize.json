@@ -1,0 +1,23 @@
+{
+  "greeting": "嗨!",
+  "name": "卜卜",
+  "greetingText": "叮! 你有一份生日祝福待签收",
+  "wishText": "前路浩浩荡荡，万事皆可期待!\n生日快乐噢! :)",
+  "imagePath": "img/卜卜.jpg",
+  "text1": "今天是我们大美女云茵的生日!!! :D",
+  "textInChatBox": "Happy birthday to you!! 哇! 终于到卜卜生日啦!祝卜卜新的一岁...",
+  "sendButtonLabel": "Send",
+  "text2": "又像平常一样发一段生日祝福就算了？",
+  "text3": "不不不，这次",
+  "text4": "我想要do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because,",
+  "text5Content": "You are Special",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "好啦,结束啦!卜公主,晚安!",
+  "replayText": "如果想再看一次就点击一下叭 <--",
+  "outroSmiley": ":)"
+}

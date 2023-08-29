@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="839.2" height="727.08" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" data-name="Layer 1">
+ <title>happy birthday</title>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m775,494.28l4.7,38.31c0.62,5.09 1.15,10.64 -1.58,15c-2.59,4.11 -7.45,6.07 -11.23,9.11c-12.41,10 -11.28,29.11 -7,44.45s10.44,31.82 4.49,46.58c-2.46,6.09 -6.8,11.22 -10,16.94a51.87,51.87 0 0 0 -6.2,32.18" fill="none" id="svg_1" stroke="#535461" stroke-miterlimit="10" stroke-width="2" transform="translate(-180.4 -86.46)"/>
+  <polygon fill="#3ad29f" id="svg_2" points="610.89 416.71 584.41 416.71 589.05 400.82 604.93 400.82 610.89 416.71"/>
+  <path d="m706.85,249.26c0,60.68 -49.19,149.57 -109.86,149.57s-109.87,-88.89 -109.87,-149.57a109.86,109.86 0 1 1 219.73,0z" fill="#3ad29f" id="svg_3" transform="matrix(1 0 0 1 0 0)"/>
+  <polygon fill="#535461" id="svg_4" points="604.93 401.48 589.05 401.48 579.78 396.19 614.2 396.19 604.93 401.48"/>
+  <path d="m737.68,250.34s-46.33,25.15 -52.95,75.45" fill="#fff" id="svg_5" opacity="0.1" transform="translate(-180.4 -86.46)"/>
+  <text fill="#aaffff" font-family="Serif" font-size="24" id="svg_6" stroke="#000000" stroke-width="0" style="cursor: move;" text-anchor="middle" x="600.4" xml:space="preserve" y="250.73">愿愿顺心,事事如意！</text>
+ </g>
+</svg>
